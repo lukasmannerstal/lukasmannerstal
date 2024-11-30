@@ -26,22 +26,3 @@ I am looking forward to expanding my knowledge and skills in the tech and engine
 ## 📂 Some of My Projects:
 
 - **[Snake](https://github.com/lukasmannerstal/Snake)** - ...
-
----
-
-## 📈 GitHub Stats:
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&hide_title=true&count_private=true&theme=radical)
-
-## 📊 Most Used Languages:
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
-
----
-
-## 📞 Let's Connect:
-
-- **[LinkedIn](https://www.linkedin.com/in/lukasmannerstal/)**
-- **Email**:lukas@mannerstal.net
-
-Feel free to reach out if you'd like to collaborate or have any questions about my projects!
