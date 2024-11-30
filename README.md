@@ -19,4 +19,4 @@ I am looking forward to expanding my knowledge and skills in the tech and engine
 
 ## 📂 Some of My Projects:
 
-🐍[Snake](https://github.com/lukasmannerstal/Snake) The goal of this project is to create a Snake game where an AI learns to play the game using Machine Learning techniques.
+[**Snake**](https://github.com/lukasmannerstal/Snake) The goal of this project is to create a Snake game where an AI learns to play the game using Machine Learning techniques. (In progress)
