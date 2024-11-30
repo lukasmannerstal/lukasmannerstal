@@ -5,8 +5,6 @@ I am a **first-year Civil Engineering student** at **KTH** specializing in **Dat
 
 ### 🚀 Current Learning Focus:
 My current focus is on learning algorithms and complexity in Java. I'm diving into the intricacies of various algorithms, understanding their time and space complexities, and how they can be implemented efficiently in Java. 
-  
-I am looking forward to expanding my knowledge and skills in the tech and engineering fields during my studies!
 
 ## 💻 Languages I Know:
 
