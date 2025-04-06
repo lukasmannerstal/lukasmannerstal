@@ -14,7 +14,3 @@ My current focus is on learning algorithms and complexity in Java. I'm diving in
 - **SQL**: Intermediate - Database management and query optimization.
 - **C#**: Intermediate - Desktop application development with Windows Forms.
 - **Java**: Intermediate - Object-oriented programming.
-
-## 📂 Some of My Projects:
-
-- [**Snake**](https://github.com/lukasmannerstal/Snake) The goal of this project is to create a Snake game where an AI learns to play the game using Machine Learning techniques. (In progress)
